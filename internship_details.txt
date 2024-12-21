@@ -1,0 +1,4 @@
+9Stack Softwares: 28/10/2024 - 30/11/2024
+
+Back-end development using the Flask framework in Python. Created a basic blog web application with Flask for the company. Designed mobile-UI for a Job application using Figma.
+
